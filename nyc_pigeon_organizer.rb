@@ -11,7 +11,7 @@ def nyc_pigeon_organizer(data)
         end
         
         if !a_hash[x][k]
-          a_hash[x][k]
+          a_hash[x][k] = 
       end
   
     end
